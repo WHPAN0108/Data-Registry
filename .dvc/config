@@ -1,4 +1,2 @@
-[core]
-    remote = wei_dvc_test
-['remote "wei_dvc_test"']
-    url = s3://com.silence-therapeutics.example-bucket
+['remote "local_test"']
+    url = /home/wei/Documents/DVC_test/DVC_local_remote
